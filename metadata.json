@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Comissão de Vendas",
+  "description": "Um aplicativo robusto para equipes de vendas controlarem dados de comissões de forma colaborativa, com integrações de IA da Gemini para análise de dados e chatbot.",
+  "requestFramePermissions": []
+}
